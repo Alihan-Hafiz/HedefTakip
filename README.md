@@ -12,8 +12,3 @@ Bu proje, kullanıcıların kişisel hedeflerini ekleyip ilerleme durumlarını 
 ## 🛠️ Kullanılan Teknolojiler
 - HTML5, CSS3, Bootstrap 5
 - JavaScript (LocalStorage)
-
-## 📦 Kurulum
-1. Bu projeyi bilgisayarına indir:
-   ```bash
-   git clone https://github.com/Alihan-Hafiz/hedef-takip.git
